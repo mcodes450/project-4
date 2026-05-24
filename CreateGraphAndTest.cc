@@ -1,3 +1,21 @@
+/*
+ *======================================================================
+ * STUDENT & PROJECT INFORMATION
+ *======================================================================
+ *
+ * Student:       Mohammed Uddin
+ * Project:       Project 4 - Graph Algorithms
+ * Course:        CSCI 33500 - Software Analysis & Design III
+ * Instructor:    Prof. I. Stamos
+ * Semester:      Spring 2026
+ *
+ * Deadlines:
+ * Initial Due Date:  05/22/2026, at 11:59 PM EST
+ * Final Deadline:    05/24/2026, at 11:59 PM EST
+ *
+ * ======================================================================
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>
